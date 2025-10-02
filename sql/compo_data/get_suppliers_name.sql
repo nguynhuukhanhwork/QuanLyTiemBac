@@ -1,0 +1,1 @@
+SELECT supplier_name FROM Suppliers
